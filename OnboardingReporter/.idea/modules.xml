@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OnboardingReporter-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/OnboardingReporter-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OnboardingReporter.iml" filepath="$PROJECT_DIR$/.idea/OnboardingReporter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OnboardingReporter/OnboardingReporter.OnboardingReporter.iml" filepath="$PROJECT_DIR$/.idea/modules/OnboardingReporter/OnboardingReporter.OnboardingReporter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OnboardingReporter/OnboardingReporter.OnboardingReporter.itest.iml" filepath="$PROJECT_DIR$/.idea/modules/OnboardingReporter/OnboardingReporter.OnboardingReporter.itest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OnboardingReporter/OnboardingReporter.OnboardingReporter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/OnboardingReporter/OnboardingReporter.OnboardingReporter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OnboardingReporter/OnboardingReporter.OnboardingReporter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/OnboardingReporter/OnboardingReporter.OnboardingReporter.test.iml" />
     </modules>
   </component>
 </project>
